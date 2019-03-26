@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Seedockh/react-native/issues"
   },
-  "homepage": "https://github.com/Seedockh/react-native#readme"
+  "homepage": "https://github.com/Seedockh/react-native#readme",
+  "dependencies": {
+    "react-native-gesture-handler": "^1.1.0",
+    "react-navigation": "^3.5.1"
+  }
 }
